@@ -19,4 +19,7 @@
    - #### Positioning images can be very challenging in many cases
    - Nothing new with respect to topics/concepts or theory. 
    - Pace is improving with practice.
+  
+### Given design:
+![Design Image](/Design.png)
  
